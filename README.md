@@ -12,7 +12,7 @@ An advanced **Bash** CLI to shorten and manage URLs with [YOURLS](https://yourls
 * 🖼️ Optional QR code
 * 🌐 Profiles for multiple YOURLS instances
 
-![kurl](https://github.com/gerald-drissner/kurl/assets/16115672/d8b4ff83-0f6b-4bf4-a098-9ea3cd35bbc3)
+![KURL CLI screenshot](https://github.com/gerald-drissner/kurl-bash/blob/main/assets/kurl-bash-screenshot.jpg))
 
 ---
 
