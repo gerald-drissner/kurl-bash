@@ -1,4 +1,4 @@
-# KURL (YOURLS CLI) — v1.2.0
+# KURL (YOURLS CLI) — v1.0
 
 An advanced **Bash** CLI to shorten and manage URLs with [YOURLS](https://yourls.org).
 
@@ -16,7 +16,7 @@ An advanced **Bash** CLI to shorten and manage URLs with [YOURLS](https://yourls
 
 ---
 
-## Features (v1.2.0)
+## Features (v1.0)
 
 * **Security & reliability**
 
