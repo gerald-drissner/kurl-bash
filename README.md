@@ -1,4 +1,5 @@
 # KURL (YOURLS CLI) — v1.0
+[![Listed in Awesome YOURLS!](https://img.shields.io/badge/Awesome-YOURLS-C5A3BE)](https://github.com/YOURLS/awesome)
 
 An advanced **Bash** CLI to shorten and manage URLs with [YOURLS](https://yourls.org).
 
