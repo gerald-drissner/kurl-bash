@@ -1,4 +1,6 @@
 # KURL (YOURLS CLI) — v1.0
+[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/gerald-drissner/kurl-thunderbird-addon/releases)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Listed in Awesome YOURLS!](https://img.shields.io/badge/Awesome-YOURLS-C5A3BE)](https://github.com/YOURLS/awesome)
 
 An advanced **Bash** CLI to shorten and manage URLs with [YOURLS](https://yourls.org).
